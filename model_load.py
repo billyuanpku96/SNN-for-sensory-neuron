@@ -16,7 +16,7 @@ Vth = 1.4
 Vreset = 0.85
 T = 50
 Rs = 4.0e3
-Rd = 1.8e3
+Rd = 2.2e3
 Cm = 5e-6
 # tau = 8e-4  #C = 200nf，R =4k
 #train_epoch = 15
