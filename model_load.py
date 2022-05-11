@@ -19,8 +19,8 @@ Rs = 4.0e3
 Rd = 1.8e3
 Cm = 5e-6
 # tau = 8e-4  #C = 200nf，R =4k
-train_epoch = 15
-dt = 3.9e-6
+#train_epoch = 15
+dt = 3.5e-6
 # 计算RC等效电阻
 R = 1 / (1 / Rs + 1 / Rd)
 tau = R * Cm
